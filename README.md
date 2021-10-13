@@ -1,4 +1,4 @@
-## learn-go
+# learn-go
 
 GO语言学习之路
 
